@@ -46,6 +46,7 @@ eis_analysis_project/
 ├── main.py                 # Main execution script
 ├── config.py              # Configuration parameters
 ├── requirements.txt       # Python dependencies
+├── Report       # Pdf document detailing about the project
 │
 ├── src/                   # Source code
 │   ├── __init__.py
